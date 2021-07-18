@@ -1,0 +1,277 @@
+{
+  "place": [
+    {
+      "place": "Hà Nội",
+      "id": 1,
+      "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp" 
+    },
+    {
+      "place": "Sài Gòn",
+      "id": 2,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-1-1.webp"
+    },
+    {
+      "place": "Đà Nẵng ",
+      "id": 3,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-11.webp"
+    },
+    {
+      "place": "Nha Trang",
+      "id": 4,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cach-dia-diem-du-lich-ca-nuoc-3.webp"
+    },
+    {
+      "place": "Quảng Ninh",
+      "id": 5,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-63-tinh-thanh-Viet-Nam-8.webp"
+    },
+    {
+      "place": "Đà Lạt",
+      "id": 6,
+      "img": "https://mytourcdn.com/upload_images/Image/Location/28_10_2015/Du-lich-da-lat-mua-dong-mytour-1.jpg"
+    },
+     {
+      "place": "Lào Cai",
+      "id": 7,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-63-tinh-thanh-Viet-Nam-11.webp"
+    },
+     {
+      "place": "Vĩnh Phúc",
+      "id": 8,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/dia-diem-du-lich-63-tinh-thanh-15.webp"
+    },
+     {
+      "place": "Bắc Ninh",
+      "id": 9,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/dia-diem-du-lich-63-tinh-thanh-16.webp"
+    },
+     {
+      "place": "Hải Phòng",
+      "id": 10,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/dia-diem-du-lich-63-tinh-thanh-20.webp"
+    },
+     {
+      "place": "Nam Định",
+      "id": 11,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/dia-diem-du-lich-63-tinh-thanh-22.webp"
+    },
+     {
+      "place": "Ninh Bình",
+      "id": 12,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-4.webp"
+    },
+     {
+      "place": "Thanh Hóa",
+      "id": 13,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-5.webp"
+    },
+     {
+      "place": "Huế",
+      "id": 14,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-10.webp"
+    },
+     {
+      "place": "Quảng Ngãi",
+      "id": 15,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cach-dia-diem-du-lich-ca-nuoc-1.webp"
+    },
+     {
+      "place": "Phú Yên",
+      "id": 16,
+      "img": "http://baochinhphu.vn//Uploaded/tranthithom/2021_03_08/1552989008_nha-trang-9.jpg"
+    },
+     {
+      "place": "Vũng Tàu",
+      "id": 17,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-6-1.webp"
+    },
+     {
+      "place": "Cần Thơ",
+      "id": 18,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-12-3.webp"
+    }
+    
+  ],
+  "childPlace": [
+        {
+        "placeId" :1,
+        "id" : 1,
+        "namePlace" :"Quảng trường Ba Đình – Lăng Bác",
+        "img":"https://dulichkhampha24.com/wp-content/uploads/2020/01/quang-truong-ba-dinh-ha-noi-11.jpg"
+        },
+        {
+        "placeId" :1,
+        "id" : 2,
+          "namePlace" :"Hồ Gươm",
+          "img":"https://hoabinhhotel.com/upload_images/images/1.jpg"
+        },
+        {
+          "placeId" :2,
+        "id" : 3,
+          "namePlace" :"Dinh Độc Lập",
+          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dinh-doc-lap-1.png"
+        },
+        {
+          "placeId" :2,
+        "id" : 4,
+          "namePlace" :"Khu du lịch Suối Tiên",
+          "img":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/suoi-tien-1.png"
+        },
+        {
+          "placeId" :3,
+        "id" :5,
+          "namePlace" :"Bà Nà Hill",
+          "img": "https://d2sx1calt21doo.cloudfront.net/xxt/experience/image/3-jpg-1080x720-FIT-fe1fe6a204f8ebd899d9b7406e5f779e.jpeg"
+        },
+        {
+          "placeId" :3,
+        "id" : 6,
+          "namePlace" :"Bán đảo Sơn Trà",
+          "img": "https://dacotours.com/wp-content/uploads/2019/10/son-tra-da-nang.jpg"
+        },
+        {
+          "placeId" :4,
+        "id" : 7,
+          "namePlace" :"Khu du lịch Vinpearl Land",
+          "img": "https://khachsandanang.shop/uploads/images/images/tro-choi-ngoai-troi-vinwonders-nha-trang.jpg"
+        },
+        {
+          "placeId" :4,
+        "id" : 8,
+          "namePlace" :"Bãi biển Nha Trang",
+          "img": "https://cdn.thodianhatrang.vn/Media/Articles/250818120722/Gallery/bien-nha-trang-2.jpg?width=786&height=590&quality=80&mode=crop"
+        },
+        {
+          "placeId" :5,
+        "id" : 9,
+          "namePlace" :"Khu vui chơi Sun World Quảng Ninh",
+          "img": "https://owa.bestprice.vn/images/articles/uploads/kinh-nghiem-vui-choi-pha-dao-sun-world-ha-long-khong-thieu-thu-gi-5d9bfd4d60d89.jpg"
+        },
+        {
+          "placeId" :5,
+        "id" : 10,
+          "namePlace" :"Vịnh Hạ Long",
+          "img": "https://dulichhalongquangninh.com/wp-content/uploads/2016/07/hinh-anh-du-lich-ha-long.jpg"
+        },
+        {
+          "placeId" :6,
+        "id" : 11,
+          "namePlace" :"Thung Lũng Tình Yêu",
+          "img": "https://ladalathotel.com.vn/wp-content/uploads/2021/03/nhung-dia-diem-dep-o-da-lat-2.jpg"
+        },
+        {
+          "placeId" :6,
+        "id" : 12,
+          "namePlace" :"Magic Land",
+          "img": "https://ladalathotel.com.vn/wp-content/uploads/2021/03/nhung-dia-diem-dep-o-da-lat-3.jpg"
+        },
+        {
+          "placeId" :7,
+        "id" : 13,
+          "namePlace" :"Khu du lịch Sa Pa",
+          "img": "https://owa.bestprice.vn/images/articles/uploads/top-15-dia-diem-nen-di-o-sapa-duoc-yeu-thich-nhat-5f1e52b0b2823.jpg"
+        },
+        {
+          "placeId" :7,
+        "id" : 14,
+          "namePlace" :"Đỉnh Phanxipang",
+          "img": "https://nemtv.vn/wp-content/uploads/2019/02/phan-xi-pang-sapa-0.jpg"
+        },
+        {
+          "placeId" :8,
+        "id" : 15,
+          "namePlace" :"Tam Đảo",
+          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/12/tam-dao-ha-noi-1.jpg"
+        },
+        {
+          "placeId" :8,
+        "id" : 16,
+          "namePlace" :"Hồ Đải Lải",
+          "img": "https://docmiendatnuoc.com/wp-content/uploads/2020/08/Ve_dep_ho_Dai_Lai_Vinh_Phuc_3.jpg"
+        },
+        {
+          "placeId" :9,
+        "id" : 17,
+          "namePlace" :"Hội Lim",
+          "img": "http://imgs.baobacgiang.com.vn/2016/02/19/15/20160219154108-7a3.jpg"
+        },
+        {
+          "placeId" :10,
+        "id" : 18,
+          "namePlace" :"Cát Bà",
+          "img": "https://pystravel.vn/uploads/posts/avatar/1594094017.jpg"
+        },
+        {
+          "placeId" :10,
+        "id" : 19,
+          "namePlace" :"Biển Đồ Sơn",
+          "img": "https://focusasiatravel.vn/wp-content/uploads/2019/09/bai-bien-do-son-8-nemtv.jpg"
+        },
+        {
+          "placeId" :11,
+        "id" : 20,
+          "namePlace" :"Nhà thờ Công Giáo",
+          "img": "http://www.vtr.org.vn/FileManager/anh_web_2020/thang7/0110/kham%20pha%20vung%20bien%20nam%20dinh%20(3).jpg"
+        },
+        {
+          "placeId" :12,
+        "id" : 21,
+          "namePlace" :"Chùa Bái Đính",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeLZSMEtsB4-9XdMn43TYwcPNifZqYRRN49Q&usqp=CAU"
+        },
+        {
+          "placeId" :12,
+        "id" : 22,
+          "namePlace" :"Khu du lịch Tràng An",
+          "img": "https://vietnamembassy-mongolia.org/wp-content/uploads/2019/10/khu-du-l%E1%BB%8Bch-Tr%C3%A0ng-An-Ninh-B%C3%ACnh-4.jpg"
+        },
+        {
+          "placeId" :13,
+        "id" : 23,
+          "namePlace" :"Sầm Sơn",
+          "img": "https://dulichkhampha24.com/wp-content/uploads/2019/09/kinh-nghiem-du-lich-Sam-Son-3.jpg"
+        },
+        {
+          "placeId" :13,
+        "id" : 24,
+          "namePlace" :"Khu bảo tồn Thiên Nhiên Pù Luông",
+          "img": "https://thienviettour.vn/upload/images/khu-bao-ton-thien-nhien-pu-luong-thanh-hoa.jpg"
+        },
+        {
+          "placeId" :14,
+        "id" : 25,
+          "namePlace" :"Cung Đình Huế",
+          "img": "https://www.vietnamembassy-bulgaria.org/wp-content/uploads/2020/01/du-lich-hue-10.jpg"
+        },
+        {
+          "placeId" :14,
+        "id" : 26,
+          "namePlace" :"Biển Lăng Cô",
+          "img": "https://thuathienhue.gov.vn/Portals/0/Medias/Nam2019/T5/20190505-langco7a.jpg"
+        },
+        {
+          "placeId" :15,
+        "id" : 27,
+          "namePlace" :"Đảo Lý Sơn",
+          "img": "https://dulichso.vn/wp-content/uploads/2019/12/20-ia-iem-choi-o-l-253-son-moi-nhat-hoang-so-tho-mong-chup-anh-cuc-ep.jpg"
+        },
+        {
+          "placeId" :16,
+        "id" : 28,
+          "namePlace" :"Bãi Xép",
+          "img": "https://pystravel.vn/uploads/posts/albums/3382/f38ca28292eed090c13cf1f573c3939c.jpg"
+        },
+        {
+          "placeId" :17,
+        "id" : 29,
+          "namePlace" :"Côn Đảo",
+          "img": "https://condaoexplorer.com/wp-content/uploads/2020/03/B%C3%A3i-Nh%C3%A1t-C%C3%B4n-%C4%90%E1%BA%A3o-1-1.jpg"
+        },
+        {
+          "placeId" :18,
+        "id" : 30,
+          "namePlace" :"Phú Quốc",
+          "img": "https://nucuoimekong.com/wp-content/uploads/tour-can-tho-phu-quoc-3-ngay-2-dem.jpg"
+        }
+      ]
+}
